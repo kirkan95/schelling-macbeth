@@ -1,4 +1,5 @@
 Dead or Alive: Schelling's Model of Segregation in Macbeth
+
 Agent-based model: Thomas Schelling's model of segregation: https://ccl.northwestern.edu/netlogo/models/Segregation
 
 This Python implementation is based on: https://colab.research.google.com/github/QuantEcon/lecture-python.notebooks/blob/master/schelling.ipynb
